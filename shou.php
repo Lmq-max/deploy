@@ -20,4 +20,5 @@ while(true){
         break;
     }
 }
+echo 87654321;
 ?>

@@ -1,4 +1,5 @@
 <?php
+//lmq12
 #session_start();
 #echo $_SESSION['name'];
 #echo time();
