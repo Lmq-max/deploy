@@ -1,5 +1,5 @@
 <?php
-//lmq12346677
+//lmq123wer
 #session_start();
 #echo $_SESSION['name'];
 #echo time();
